@@ -45,9 +45,22 @@
   .main-content {
     width: 66%;
     display: inline-block;
+    
      
+  }
+  .main-content, h2 {
+      margin: 0px 0px 20px 0px ;
   }
   .picture-text {
       width: 200px;
       float: left;
+  }
+  .side-bar{
+    background-color: brown;
+    margin: 10px;
+    padding: 20px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
   }
